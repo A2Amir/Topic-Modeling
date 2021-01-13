@@ -7,7 +7,7 @@ The [dataset](https://github.com/A2Amir/Topic-Modeling/blob/main/abcnews-date-te
 
 To learn more about what the Latent Dirichlet Allocation is and how it works, first watch the videos linked below:
 
-* ![1. Latent Dirichlet Allocation](/images/1.mp4) 
+* ![1. Latent Dirichlet Allocation](/images/LDA.mp4) 
 
 ## Getting Started
 
