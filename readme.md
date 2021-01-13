@@ -32,6 +32,6 @@ $ conda env create -f nlp.yaml
  $ jupyter notebook
 ```
 
-Depending on your system settings, Jupyter will either open a browser window, or the terminal will print a URL with a security token. If the terminal prints a URL, simply copy the URL and paste it into a browser window to load the Jupyter browser. Once you load the Jupyter browser, select the project notebook (Latent_dirichlet_allocation.ipynbb) and follow the instructions inside to run it.
+Depending on your system settings, Jupyter will either open a browser window, or the terminal will print a URL with a security token. If the terminal prints a URL, simply copy the URL and paste it into a browser window to load the Jupyter browser. Once you load the Jupyter browser, select the project notebook [Latent_dirichlet_allocation](https://github.com/A2Amir/Topic-Modeling/blob/main/Latent_dirichlet_allocation.ipynb) and follow the instructions inside to run it.
 
 
