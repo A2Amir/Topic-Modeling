@@ -7,30 +7,28 @@ The [dataset]() I'll use is a list of over one million news headlines published 
 
 To learn more about what the Latent Dirichlet Allocation is and how it works, first watch the videos linked below:
 
-* ![1. Latent Dirichlet Allocation)](/images/1.mp4) 
+* ![1. Latent Dirichlet Allocation](/images/1.mp4) 
 
 ## Getting Started
 
 
- you can download a copy of the project from my GitHub [here](https://github.com/A2Amir/Part-of-Speech-Tagging) and then run a Jupyter server locally with [Anaconda](https://www.anaconda.com/download/).
+ you can download a copy of the project from my GitHub [here](https://github.com/A2Amir/Topic-Modeling) and then run a Jupyter server locally with [Anaconda](https://www.anaconda.com/download/).
 
-
-0. (Optional) The provided code includes a function for drawing the network graph that depends on [GraphViz](http://www.graphviz.org/). You must manually install the GraphViz executable for your OS before the steps below or the drawing function will not work.
 
 1. Open a terminal and clone the project repository:
 ```
-$ git clone https://github.com/A2Amir/Part-of-Speech-Tagging
+$ git clone https://github.com/A2Amir/Topic-Modeling
 ```
 
 3. Switch to the project folder you cloned the project and create a conda environment (note: you must already have Anaconda installed):
 ```
 $ cd to the project folder you cloned the project
-$ conda env create -f hmm-tagger.yaml
+$ conda env create -f nlp.yaml
 ```
 
 4. Activate the conda environment, then run the jupyter notebook server. (Note: windows users should run `activate hmm-tagger`)
 ```
- $ source activate hmm-tagger
+ $ source activate nlp
  $ jupyter notebook
 ```
 
