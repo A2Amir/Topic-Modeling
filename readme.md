@@ -1,13 +1,13 @@
 ## Introduction
 
-In this repository, I'll use the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf). 
-
+In this repository, I'll use the [gensim](https://radimrehurek.com/gensim/) library to build LDA (Latent Dirichlet Allocation) to classify text in a document to a particular topic.
+The [dataset]() I'll use is a list of over one million news headlines published over a period of 15 years. We'll start by loading it from the abcnews-date-text.csv file.
 
 ## Hidden Markov Model
 
-To learn more about what the Hidden Markov Model is and how it works, first watch the videos linked below:
+To learn more about what the Latent Dirichlet Allocation is and how it works, first watch the videos linked below:
 
-* ![1. Hidden Markov Model](/images/1.mp4) 
+* ![1. Latent Dirichlet Allocation)](/images/1.mp4) 
 
 ## Getting Started
 
