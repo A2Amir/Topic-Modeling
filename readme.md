@@ -3,6 +3,7 @@
 In this repository, I'll use the [gensim](https://radimrehurek.com/gensim/) library to build LDA (Latent Dirichlet Allocation) to classify text in a document to a particular topic.
 The [dataset](https://github.com/A2Amir/Topic-Modeling/blob/main/abcnews-date-text.csv) I'll use is a list of over one million news headlines published over a period of 15 years. We'll start by loading it from the abcnews-date-text.csv file.
 
+
 ## Latent Dirichlet Allocation
 
 To learn more about what the Latent Dirichlet Allocation is and how it works, first watch the videos linked below:
