@@ -28,6 +28,7 @@ $ conda env create -f nlp.yaml
 ```
 
 4. Activate the conda environment, then run the jupyter notebook server. (Note: windows users should run `activate nlp`)
+
 ```
  $ source activate nlp
  $ jupyter notebook
